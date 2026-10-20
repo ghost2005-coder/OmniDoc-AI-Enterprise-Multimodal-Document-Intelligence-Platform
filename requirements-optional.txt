@@ -1,8 +1,0 @@
-pypdf>=4.0
-Pillow>=10.0
-pytesseract>=0.3.10
-scikit-learn>=1.4
-chromadb>=0.5
-sentence-transformers>=2.6
-transformers>=4.44
-torch>=2.2
